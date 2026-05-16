@@ -1,32 +1,28 @@
-# 💬 Real-Time Chat Application
+# 👨‍💻 Developer Team Portfolio Website
 
-A modern real-time chat application built using HTML, CSS, JavaScript, Django, Bootstrap, Python, and MySQL. This project enables users to communicate instantly with a responsive and user-friendly interface while providing fast and secure real-time messaging functionality.
+A modern and responsive Developer Team Portfolio Website built using HTML, CSS, JavaScript, Bootstrap, Python, Django, and MySQL. This project is designed to showcase the team members, technical skills, projects, services, and achievements of a development team with a professional and interactive user interface.
 
 ---
 
-## 📖 About RTC
+## 📖 About Project
 
-RTC (Real-Time Communication) is a technology that allows users to exchange messages and data instantly without refreshing the page. This chat application uses real-time communication concepts to deliver seamless messaging between users with minimal delay. The project is designed to provide smooth interaction, secure authentication, and a modern chatting experience across different devices.
+The Developer Team Portfolio Website is created to represent a team of developers in a professional way. The website helps showcase team expertise, completed projects, technologies used, and contact information for clients or recruiters.
 
-The application focuses on:
-- Instant message delivery
-- Fast server-client communication
-- Responsive user interface
-- Secure user management
-- Smooth real-time user experience
+The platform provides a clean design, responsive layout, and smooth user experience to highlight the team’s development journey and technical capabilities.
 
 ---
 
 ## 🚀 Features
 
-- 🔴 Real-time messaging system
-- 👤 User authentication & authorization
-- 💬 Instant chat updates
+- 👨‍💻 Team member showcase
+- 💼 Project portfolio section
+- 🛠️ Skills & technologies section
 - 📱 Fully responsive design
 - 🎨 Modern Bootstrap UI
-- 🔒 Secure login & signup
-- 🟢 Online/Offline user status
-- ⚡ Fast and smooth performance
+- 📬 Contact form
+- ⚡ Fast and optimized performance
+- 🌐 Professional landing page
+- 🔒 Secure backend with Django
 
 ---
 
@@ -47,4 +43,4 @@ The application focuses on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/pateladbhut3-byte/Real-Time-Chat-
+git clone https://github.com/yourusername/developer-team-portfolio.git
