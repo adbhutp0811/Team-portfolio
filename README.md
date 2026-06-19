@@ -43,4 +43,4 @@ The platform provides a clean design, responsive layout, and smooth user experie
 Clone the repository:
 
 ```bash
-git clone https://github.com/adbhutp/Team-portfolio
+git clone https://github.com/adbhutp0811/Team-portfolio
