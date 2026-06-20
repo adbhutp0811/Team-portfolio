@@ -1,4 +1,4 @@
-# 👨‍💻 Developer Team Portfolio Website
+# 👨‍💻 Developer Team Manage Website
 
 A modern and responsive Developer Team Portfolio Website built using HTML, CSS, JavaScript, Bootstrap, Python, Django, and MySQL. This project is designed to showcase the team members, technical skills, projects, services, and achievements of a development team with a professional and interactive user interface.
 
